@@ -7,3 +7,5 @@ def water_for_pizza_dough(flo)
 end
 
 water_for_pizza_dough(618)
+# Of course 618 is an example..
+# You weight the flour you used to find the water..!
